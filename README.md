@@ -9,8 +9,8 @@ This notebook explores the legendary career of Ronaldo Nazário using Python, Pa
 - "What if" projection without major injuries
 
 ## 📁 Files
-- `Ronaldo_Career_Analysis_Polished.ipynb` — Main Jupyter Notebook
-
+- `r9.ipynb` — Main Jupyter Notebook
+- `ronaldo.xlsx` -- Data 
 ---
 
 Built with 💙 by Manav Rana
